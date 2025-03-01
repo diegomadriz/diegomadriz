@@ -6,8 +6,8 @@
 - My favorite car ever is the Porsche 911.
 - I can speak Spanish and English fluently (or at least that's what I think).
   
-- I'm looking to work on AI/ML.
-- My goal is to have time to travel while also being able to make a living.
+- I'm looking to work on AI/ML, but open to different challenges in software that might be interesting.
+- My goal is to be able to position myself as a valuable person within my industry and make a positive impact in any project I work on.
 - How to reach me: diegomadriz004@hotmail.com
   
 
